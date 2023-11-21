@@ -14,7 +14,7 @@ Run the following command on this directory.
 make_data.py 100
 ```
 
-It makes 100 graph files in the DIMACS format.
+It downloads the data and makes 100 graph files in the DIMACS format.
 If you run
 
 ```
